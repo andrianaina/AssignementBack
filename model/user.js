@@ -12,4 +12,4 @@ let UserSchema = Schema({
 UserSchema.plugin(aggregatePaginate);
 
 
-module.exports = mongoose.model('users', AssignmentSchema);
+module.exports = mongoose.model('users', UserSchema);
