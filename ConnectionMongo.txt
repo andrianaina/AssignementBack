@@ -1,1 +1,1 @@
-mongodb+srv://tiavinarandy24:#!Tiavina240801@assignmentcluster.ckmbxs3.mongodb.net/assignments?retryWrites=true&w=majority
+mongodb+srv://mb:1234@cluster0.daooarb.mongodb.net/assignments?retryWrites=true&w=majority
